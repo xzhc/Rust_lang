@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "mcp__web-reader__webReader"
+      "mcp__web-reader__webReader",
+      "Bash(rustup doc --book)",
+      "Bash(cargo new ch09_error_handling)",
+      "Bash(cd /Users/xzh/Tech/CS/Rust_lang/ch09_error_handling && cargo check 2>&1)",
+      "Bash(cargo run 2>&1)"
     ]
   }
 }

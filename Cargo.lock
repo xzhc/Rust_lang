@@ -13,6 +13,10 @@ name = "ch05_structs_practice"
 version = "0.1.0"
 
 [[package]]
+name = "ch09_error_handling"
+version = "0.1.0"
+
+[[package]]
 name = "collections_practice"
 version = "0.1.0"
 
