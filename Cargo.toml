@@ -1,3 +1,0 @@
-[workspace]
-members = ["ch05_structs_practice", "ch09_error_handling", "collections_practice", "enums_match_patterns","guess_game", "hello-cargo", "ownership_practice", "restaurant"]
-resolver = "3"
